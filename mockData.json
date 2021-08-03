@@ -1,0 +1,30 @@
+[
+    {   
+        "id":0,
+        "name":"amir",
+        "age":"20",
+        "email":"w@g.com",
+        "password":"sjksjak"
+    },
+    {
+        "id":1,
+        "name":"hasan",
+        "age":"22",
+        "email":"io@g.com",
+        "password":"Abc123"
+    },
+    {
+        "id":2,
+        "name":"Qwer",
+        "age":"23",
+        "email":"JPG@g.com",
+        "password":"Abc3"
+    },
+    {
+        "id":3,
+        "name":"Qwer",
+        "age":"23",
+        "email":"JPG@g.com",
+        "password":"Abc3"
+    }
+]
